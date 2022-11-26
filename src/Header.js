@@ -8,8 +8,10 @@ function Header() {
       <h1>This is the header</h1>
 
       <div className="header_left">
-        <img src="https://www.flaticon.com/free-icon/linkedin_174857?term=linkedin%20logo&page=1&position=4&page=1&position=4&related_id=174857&origin=style "
-        alt="" />
+        <img 
+        src="https://pixabay.com/images/id-7409502/"
+        alt="gjhgghjg" 
+        />
               <div className="header_search">
                  <SearchIcon/>
                 <input type="text" />
